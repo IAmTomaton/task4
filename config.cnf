@@ -1,0 +1,2 @@
+uptime -10
+ntpserver time.windows.com
